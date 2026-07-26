@@ -1,4 +1,5 @@
-# Sunrise (public repository)
+![The Sunrise Logo on a transparent background with a black blurred shadow behind it.](https://raw.githubusercontent.com/WushR00M/Sunrise-Issues/refs/heads/main/.github/itch.io_Icon.png)
+# Sunrise
 Report bugs, game crashes, and more related to Sunrise.\
 Current Game Version: `v2026.4.8` (as of July 13, 2026).\
 Current Private Beta Version: `v2026.5.0e` (as of July 26, 2026, not including IDE builds)  
