@@ -19,7 +19,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: what-happened
+    id: version
     attributes:
       label: What version of Sunrise are you playing?
       value: "v2026.5.0"
