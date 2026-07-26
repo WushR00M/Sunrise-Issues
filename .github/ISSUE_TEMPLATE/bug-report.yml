@@ -15,18 +15,14 @@ body:
       label: What happened?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
-      value: ""
+      value: "Something happened..."
     validations:
       required: true
-  - type: dropdown
-    id: version
+  - type: textarea
+    id: what-happened
     attributes:
-      label: Version
-      description: What version of Sunrise are you running?
-      options:
-        - v2026.4.X (any v2026.4 version)
-        - v2026.5.X
-      default: 0
+      label: What version of Sunrise are you playing?
+      value: "v2026.5.0"
     validations:
       required: true
   - type: dropdown
