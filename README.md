@@ -1,4 +1,7 @@
-![The Sunrise Logo on a transparent background with a black blurred shadow behind it.](https://raw.githubusercontent.com/WushR00M/Sunrise-Issues/refs/heads/main/.github/itch.io_Icon.png)
+<p align="center">
+  <img alt="The Sunrise Logo on a transparent background with a black blurred shadow behind it." src=".github/itch.io_Icon.png">
+</p>
+
 # Sunrise
 Report bugs, game crashes, and more related to Sunrise.\
 Current Game Version: `v2026.4.8` (as of July 13, 2026).\
